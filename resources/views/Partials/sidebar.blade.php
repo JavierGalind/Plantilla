@@ -33,7 +33,7 @@
                     </p>
                   </a>
                   <ul class="nav nav-treeview">
-                    <li class="nav-item ">
+                    <li class="nav-item has-treeview menu-open">
                       <a href="/adminlte/index.html" class="nav-link active">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Dashboard v1</p>
